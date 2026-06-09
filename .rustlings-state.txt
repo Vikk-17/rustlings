@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-tests1
+quiz3
 
 intro1
 intro2
@@ -57,6 +57,11 @@ errors2
 errors3
 errors4
 errors5
+traits1
+traits2
+traits3
+traits4
+traits5
 lifetimes1
 lifetimes2
 lifetimes3
